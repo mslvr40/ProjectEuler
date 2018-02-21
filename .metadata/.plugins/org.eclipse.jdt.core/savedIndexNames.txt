@@ -15,6 +15,5 @@ INDEX VERSION 1.130+C:\Users\msilv5\Documents\GitHub\ProjectEuler\.metadata\.plu
 592600685.index
 2589955883.index
 2429332019.index
-282725301.index
 421022922.index
 2916426105.index
